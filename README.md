@@ -1,3 +1,4 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=OkAndGreat&show_icons=true&theme=vue&hide_title=true" />
 ### Hi there 👋
 
 <!--
