@@ -7,5 +7,5 @@
 💬 Feel free to Ask me about anything you like 
 
 ⚡My Most Used Languages
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkAndGreat&layout=compact)](https://github.com/OkAndGreat/github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkAndGreat&layout=compact)](https://github.com/OkAndGreat/github-readme-stats" />
 
