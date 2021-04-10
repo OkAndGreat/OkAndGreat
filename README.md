@@ -1,15 +1,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=OkAndGreat&show_icons=true&theme=vue&hide_title=true&hide=prs" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkAndGreat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
+🌱 I’m currently learning Android and basics of computer science
+
 💬 Feel free to Ask me about anything you like 
 
-⚡ Fun fact: I do not know either...
 
-
-这玩意挺火的，我也来玩一玩
-
-佛系 Android 玩家 看着办型人物 
-
-Leave me alone,I know what I am doing. -RAI
+Filled with easy to disaster, humble constant beatification. -Tingyu Zhang
 <!--
 **OkAndGreat/OkAndGreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
