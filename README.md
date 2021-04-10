@@ -9,6 +9,6 @@
 
 ⚡ My Most used Languages
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/OkAndGreat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkAndGreat&layout=compact)](https://github.com/OkAndGreat/github-readme-stats" />
 </a>
