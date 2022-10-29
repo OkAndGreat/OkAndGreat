@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Android and basics of computer science
+🌱 I’m currently learning Android&FrontEnd&Basics of computer science
 
 💬 Feel free to Ask me about anything you like 
 
