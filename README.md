@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Android&FrontEnd&Basics of computer science
+🌱 I’m currently an Android-Engineer works on Harmony,Android develop,and I'm also wording hard on studying some fornt end related tech as RN,Vue etc.
 
 💬 Feel free to Ask me about anything you like 
 
