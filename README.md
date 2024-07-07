@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently an Android-Engineer works on Harmony,Android develop,and I'm also wording hard on studying some fornt end related tech as RN,Vue etc.
+🌱  I’m currently an Android-Engineer works on Harmony,Android develop,
+    and I'm also wording hard on studying some fornt end related tech as RN,Vue etc.
 
 💬 Feel free to Ask me about anything you like 
 
